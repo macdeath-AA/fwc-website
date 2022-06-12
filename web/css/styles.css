@@ -657,7 +657,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-    width: 5.5625rem;
+    width: 14.97rem;
 	height: 3.875rem;
 }
 
@@ -944,6 +944,7 @@ input[type='checkbox'] {
 	padding-top: 3.75rem;
 	padding-bottom: 3.5rem;
 	background-color: #fbf9f5;
+	text-align: center;
 }
 
 .basic-1 h2 {
