@@ -113,6 +113,14 @@ h6 {
 	padding-left: 1.25rem;
 }
 
+.feeSt { 
+	text-align: center; 
+}
+.feeTxt { 
+	display: inline-block; text-align: left; 
+}
+
+
 a {
 	color: #555;
 	text-decoration: underline;
